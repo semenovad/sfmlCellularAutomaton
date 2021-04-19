@@ -10,13 +10,13 @@
 где на месте первой звёздочки Вы указываете сколько клеток должно окружать клетку, чтобы породить новую, 
   а на месте второй звёздочки - сколько клеток должно окружать клетку, чтобы она осталась в живых!
   
-## Например:
+# Например:
 
-# Правило B3S23 - "классическая" игра "Жизнь"
+Правило B3S23 - "классическая" игра "Жизнь"
 ![me](https://github.com/semenovad/sfmlCellularAutomaton/blob/master/sfmlCellularAutomaton/gif/record_000004.gif)
 
-# Правило B3S012345678
+Правило B3S012345678
 ![me](https://github.com/semenovad/sfmlCellularAutomaton/blob/master/sfmlCellularAutomaton/gif/record_000005.gif)
 
-# Правило B1S012345678
+Правило B1S012345678
 ![me](https://github.com/semenovad/sfmlCellularAutomaton/blob/master/sfmlCellularAutomaton/gif/record_000006_Trim.gif)
