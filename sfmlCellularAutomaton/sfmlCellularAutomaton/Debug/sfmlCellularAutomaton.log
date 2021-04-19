@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\sfmlcellularAutomaton\sfmlCellularAutomaton\main.cpp(14,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\lenovo\source\repos\sfmlcellularAutomaton\sfmlCellularAutomaton\main.cpp(91,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\lenovo\source\repos\sfmlcellularAutomaton\sfmlCellularAutomaton\main.cpp(91,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  sfmlCellularAutomaton.vcxproj -> C:\Users\lenovo\source\repos\sfmlcellularAutomaton\Debug\sfmlCellularAutomaton.exe
